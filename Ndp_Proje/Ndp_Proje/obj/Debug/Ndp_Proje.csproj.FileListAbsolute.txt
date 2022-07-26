@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.Form1.resources
+C:\Users\Asus\source\repos\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.Properties.Resources.resources
+C:\Users\Asus\source\repos\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Ndp_Proje\Ndp_Proje\bin\Debug\Ndp_Proje.exe.config
+C:\Users\Asus\source\repos\Ndp_Proje\Ndp_Proje\bin\Debug\Ndp_Proje.exe
+C:\Users\Asus\source\repos\Ndp_Proje\Ndp_Proje\bin\Debug\Ndp_Proje.pdb
+C:\Users\Asus\source\repos\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.exe
+C:\Users\Asus\source\repos\Ndp_Proje\Ndp_Proje\obj\Debug\Ndp_Proje.pdb
